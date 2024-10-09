@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0D1117&random=false&width=500&lines=HI+I'M+ABDUL+KADER)](https://github.com/abdulkader789)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0D1117&random=false&width=500&lines=HI+I'M+ABDUL+KADER)](https://github.com/devabdulkader)
 
 I’m a **Front Mern-Stack Developer** from Bangladesh 🇧🇩 who is passionate about making Full Stack Projects using Mern-Stack. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
 
@@ -6,12 +6,12 @@ I’m a **Front Mern-Stack Developer** from Bangladesh 🇧🇩 who is passionat
 
 <!-- - 🔭 I’m currently working on **Backend** -->
 
-- 🌱 I’m currently creating projects using **TypeScript** **Next.js** **Redux**
+- 🌱 Currently working as a MERN Stack Developer at ZORG IT GROUP
 - 💬 Ask me about **Javascript, React or Anything**
-- 📫 How to reach me: [abdulemail789@gmail.com](mailto:abudlemail789@gmail.com)
+- 📫 How to reach me: [devabdulemail@gmail.com](mailto:devabdulemail@gmail.com)
 - 😄 Pronouns: he/him
 
-[![](https://visitcount.itsvg.in/api?id=abdulkader789&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/abdulkader789)
+[![](https://visitcount.itsvg.in/api?id=devabdulkader&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/devabdulkader)
 
 ##
 
@@ -24,7 +24,7 @@ I’m a **Front Mern-Stack Developer** from Bangladesh 🇧🇩 who is passionat
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-25A2E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/) -->
 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D23F34?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulemail789@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D23F34?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devabdulemail@gmail.com)
 
 **Feel free to reach out if you want to discuss programming, collaborate on projects, or just have a good old chat about the latest tech trends.**
 
