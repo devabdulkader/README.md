@@ -49,12 +49,12 @@ I’m a **Front Mern-Stack Developer** from Bangladesh 🇧🇩 who is passionat
 
 ## 📊 My GitHub Stat
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkader789&show_icons=true&theme=react&card_width=450)](https://github.com/abdulkader789)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=devabdulkader&show_icons=true&theme=react&card_width=450)](https://github.com/devabdulkader)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkader789&langs_count=10&theme=react&card_width=450)](https://github.com/abdulkader789)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devabdulkader&langs_count=10&theme=react&card_width=450)](https://github.com/devabdulkader)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdulkader789&theme=react&card_width=450&show_icons=true)](https://github.com/abdulkader789)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devabdulkader&theme=react&card_width=450&show_icons=true)](https://github.com/devabdulkader)
 
-[![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulkader789&theme=react)](https://github.com/abdulkader789)
+[![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devabdulkader&theme=react)](https://github.com/devabdulkader)
 
-[![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulkader789&custom_title=abdulkader789's%20GitHub%20Activity%20Graph&theme=react-dark&area=true)](https://github.com/abdulkader789)
+[![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=devabdulkader&custom_title=devabdulkader's%20GitHub%20Activity%20Graph&theme=react-dark&area=true)](https://github.com/devabdulkader)
